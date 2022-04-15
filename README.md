@@ -1,4 +1,4 @@
-# BMI Calculator & History
+# BMI Calculator & History Android App
 
 ![BMI Feature Graphic-2](https://user-images.githubusercontent.com/44253834/163578926-286b7325-66de-461c-bcce-687fc5aaa8cf.png)
 
@@ -28,7 +28,7 @@ Age and gender are not in our control. God has given everybody their respective 
 What do I've to offer?
 ------------------------
 
-<img src="https://user-images.githubusercontent.com/44253834/163579290-1e17362a-d555-46f2-b49a-6bf3e1a7414b.png" width="225" height="475"/> | <img src="https://user-images.githubusercontent.com/44253834/163579324-d9aea5f9-7569-4cca-a85f-8aca0173392e.png" width="225" height="475"/> | <img src="https://user-images.githubusercontent.com/44253834/163579343-92363274-3586-4bcd-84f1-de216fb8b019.png" width="225" height="475"/> | <img src="https://user-images.githubusercontent.com/44253834/163579364-d6410981-770f-4a4b-8ea4-de2a8e38490c.png" width="225" height="475"/>
+<img src="https://user-images.githubusercontent.com/44253834/163579290-1e17362a-d555-46f2-b49a-6bf3e1a7414b.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/163579324-d9aea5f9-7569-4cca-a85f-8aca0173392e.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/163579343-92363274-3586-4bcd-84f1-de216fb8b019.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/163579364-d6410981-770f-4a4b-8ea4-de2a8e38490c.png" width="200" height="450"/>
 
 The first and the most important requirement for any health app is that it needs to be free of cost (or with minimal cost) so that a larger amount of people can benefit from it. There we go, BMI Calculator & History app is completely free-of-cost.
 
