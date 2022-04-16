@@ -2,6 +2,7 @@
 
 ![BMI Feature Graphic-2](https://user-images.githubusercontent.com/44253834/163578926-286b7325-66de-461c-bcce-687fc5aaa8cf.png)
 
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.bmi.bmi_calc" target="_blank">Download the app now!</a></p>
 
 Short Description
 -----------------
