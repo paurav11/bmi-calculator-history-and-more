@@ -2,7 +2,7 @@
 
 ![BMI Feature Graphic-2](https://user-images.githubusercontent.com/44253834/163578926-286b7325-66de-461c-bcce-687fc5aaa8cf.png)
 
-<p align="center"><a href="https://play.google.com/store/apps/details?id=com.bmi.bmi_calc" target="_blank">Download the app now!</a></p>
+<p align="center"><a href='https://play.google.com/store/apps/details?id=com.bmi.bmi_calc&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></p>
 
 Short Description
 -----------------
