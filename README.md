@@ -1,6 +1,6 @@
-# BMI Calculator & History Android App
+# BMI Calculator: History & More - Android App 
 
-![BMI Feature Graphic-2](https://user-images.githubusercontent.com/44253834/163578926-286b7325-66de-461c-bcce-687fc5aaa8cf.png)
+![BMI Feature Graphic-2](https://user-images.githubusercontent.com/44253834/178492506-b88304d2-5b5c-4500-b947-d8ee67c44e6b.png)
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.bmi.bmi_calc&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></p>
 
@@ -29,7 +29,7 @@ Age and gender are not in our control. God has given everybody their respective 
 What do I've to offer?
 ------------------------
 
-<img src="https://user-images.githubusercontent.com/44253834/163579290-1e17362a-d555-46f2-b49a-6bf3e1a7414b.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/163579324-d9aea5f9-7569-4cca-a85f-8aca0173392e.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/163579343-92363274-3586-4bcd-84f1-de216fb8b019.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/163579364-d6410981-770f-4a4b-8ea4-de2a8e38490c.png" width="200" height="450"/>
+<img src="https://user-images.githubusercontent.com/44253834/178491439-6b80a9c0-4798-47fd-ac29-89523788769c.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/178491505-ff7349ca-de95-4fb2-ad37-639d21ce90fa.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/178491552-50cdcce5-f6a4-4fec-830e-7a44b1002c18.png" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/44253834/178491612-dfe54776-1968-48ec-9187-7a7ec330b350.png" width="200" height="450"/>
 
 The first and the most important requirement for any health app is that it needs to be free of cost (or with minimal cost) so that a larger amount of people can benefit from it. There we go, BMI Calculator & History app is completely free-of-cost.
 
@@ -49,7 +49,7 @@ Now, let's sum up by writing all the features that my app has to offer.
   - Many users wish to see the change happening within themselves. To support that, I’ve included history feature with BMI-tracking chart to easily monitor your BMI over the years. Remember, sharing personal health data is not recommended.
 
 NOTE: As all the records are saved locally, removing app’s cache memory or deleting the app can result in loss of data.
-For any kind of feedback, queries and suggestions, kindly drop a mail at pauravshah1999@gmail.com.
+For any kind of feedback, queries and suggestions, kindly drop a mail at dev.paurav@gmail.com.
 
 
 <p align="center"><a href="https://www.freeprivacypolicy.com/live/df47de37-0789-49c6-a582-913c88a78710" target="_blank">Privacy Policy</a> | <a href="https://www.freeprivacypolicy.com/live/acc5ad7e-5af4-4df7-b9b8-e72dcb718ee5" target="_blank">Disclaimer</a></p>
